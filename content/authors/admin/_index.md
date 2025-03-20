@@ -73,4 +73,4 @@ languages:
 
 ## About Me
 
-Baranova Anna is a student of Mathematics and Mechanics at the RUDN. Her research interests include differential equations, programming, mathematical logic.
+Anna Baranova is a student of Mathematics and Mechanics at the RUDN. Her research interests include differential equations, programming, mathematical logic.
