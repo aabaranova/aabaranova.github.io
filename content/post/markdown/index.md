@@ -9,7 +9,7 @@ image:
 
 authors:
   - admin
-  - doka.guide
+  - Doka.guide
 
 tags:
  - Markdown
