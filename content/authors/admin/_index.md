@@ -82,7 +82,7 @@ languages:
   - name: French
     percent: 30
 
-# Experience
+# Experiences
 experience:
   - name: MBEI "Secondary comprehensive school №5" of Kursk
     items:
