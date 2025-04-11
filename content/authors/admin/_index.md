@@ -63,18 +63,6 @@ skills:
         description: ''
         percent: 100
         icon: cat
-  - name: Sports tourism
-    items:
-      - description: ''
-        percent: 100
-  - name: Orienteering
-    items:
-      - description: ''
-        percent: 100
-  - name: Fire and rescue sport
-    items:
-      - description: ''
-        percent: 100
   - name: Accomplishments
     items:
       - name: Red diploma from music school
