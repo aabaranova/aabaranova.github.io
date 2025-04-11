@@ -75,36 +75,31 @@ skills:
     items:
       - description: ''
         percent: 100
+  - name: Accomplishments
+    items:
+      - name: Red diploma from music school
+        description: ''
+        percent: 100
+  - name: Experience
+    items:
+      - name: MBEI "Secondary comprehensive school №5" of Kursk
+        description: ''
+        percent: 100
+      - name: School of foreign language teaching of Kursk
+        description: ''
+        percent: 100
+      - name: English language courses of Kursk
+        description: ''
+        percent: 100
+      - name: Music School of Kursk
+        description: ''
+        percent: 100
 
 languages:
   - name: English
     percent: 70
   - name: French
     percent: 30
-
-accomplishments:
-  - name: Red diploma from music school
-    items:
-      - description: ''
-    percent: 100
-
-experience:
-  - name: MBEI "Secondary comprehensive school №5" of Kursk
-    items:
-      - description: ''
-    percent: 100
-  - name: School of foreign language teaching of Kursk
-    items:
-      - description: ''
-    percent: 100
-  - name: English language courses of Kursk
-    items:
-      - description: ''
-    percent: 100
-  - name: Music School of Kursk
-    items:
-      - description: ''
-    percent: 100
 ---
 
 ## About Me
