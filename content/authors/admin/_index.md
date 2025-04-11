@@ -54,7 +54,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 40
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -63,12 +63,45 @@ skills:
         description: ''
         percent: 100
         icon: cat
+  - name: Sports tourism
+    items:
+      - description: ''
+        percent: 100
+  - name: Orienteering
+    items:
+      - description: ''
+        percent: 100
+  - name: Fire and rescue sport
+    items:
+      - description: ''
+        percent: 100
 
 languages:
   - name: English
-    percent: 90
+    percent: 70
   - name: French
-    percent: 50
+    percent: 30
+
+# Experience
+experience:
+  - name: MBEI "Secondary comprehensive school №5" of Kursk
+    items:
+      - description: 'I studied at this school for 11 grades'
+  - name: School of foreign language teaching of Kursk
+    items:
+      - description: 'I studied in this school for 3 years, learning English'
+  - name: English language courses of Kursk
+    items:
+      - description: 'I studied these courses for 2 years'
+  - name: Music School of Kursk
+    items:
+      - description: 'I studied at this school for 5 grades'
+
+# Accomplishments
+accomplishments:
+  - name: Red diploma from music school
+    items:
+      - description: ''
 ---
 
 ## About Me
