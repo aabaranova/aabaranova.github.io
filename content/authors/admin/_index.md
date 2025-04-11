@@ -47,6 +47,27 @@ education:
     date_start: 2024-09-01
     date_end: 2028-06-30
 
+# Experiences
+experience:
+  - name: MBEI "Secondary comprehensive school №5" of Kursk
+    items:
+      - description: 'I studied at this school for 11 grades'
+  - name: School of foreign language teaching of Kursk
+    items:
+      - description: 'I studied in this school for 3 years, learning English'
+  - name: English language courses of Kursk
+    items:
+      - description: 'I studied these courses for 2 years'
+  - name: Music School of Kursk
+    items:
+      - description: 'I studied at this school for 5 grades'
+
+# Accomplishments
+accomplishments:
+  - name: Red diploma from music school
+    items:
+      - description: ''
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -81,27 +102,6 @@ languages:
     percent: 70
   - name: French
     percent: 30
-
-# Experiences
-experience:
-  - name: MBEI "Secondary comprehensive school №5" of Kursk
-    items:
-      - description: 'I studied at this school for 11 grades'
-  - name: School of foreign language teaching of Kursk
-    items:
-      - description: 'I studied in this school for 3 years, learning English'
-  - name: English language courses of Kursk
-    items:
-      - description: 'I studied these courses for 2 years'
-  - name: Music School of Kursk
-    items:
-      - description: 'I studied at this school for 5 grades'
-
-# Accomplishments
-accomplishments:
-  - name: Red diploma from music school
-    items:
-      - description: ''
 ---
 
 ## About Me
