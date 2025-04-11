@@ -85,14 +85,17 @@ skills:
       - name: MBEI "Secondary comprehensive school №5" of Kursk
         description: ''
         percent: 100
+  - name: Experience
     items:
       - name: School of foreign language teaching of Kursk
         description: ''
         percent: 100
+  - name: Experience
     items:
       - name: English language courses of Kursk
         description: ''
         percent: 100
+  - name: Experience
     items:
       - name: Music School of Kursk
         description: ''
