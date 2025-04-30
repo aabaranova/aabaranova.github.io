@@ -35,6 +35,20 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/aabaranova
+  - icon: brands/elibrary
+    url: https://elibrary.ru/project_user_office.asp
+  - icon: brands/scholar.google
+    url: https://scholar.google.com/citations?hl=ru&authuser=2&user=2LuM92sAAAAJ
+  - icon: brands/orcid
+    url: https://orcid.org/my-orcid
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/search/
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Anna-Baranovav
+  - icon: brands/academia.edu
+    url: https://https://independent.academia.edu/AnnaBaranova31
+  - icon: brands/arxiv
+    url: https://arxiv.org/user/
 
 interests:
   - Mathematics
