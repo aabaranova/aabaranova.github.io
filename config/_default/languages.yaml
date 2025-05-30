@@ -2,21 +2,63 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+# Русская версия сайта
+ru:
+  languageCode: "ru-ru"
+  contentDir: "content/ru"   # Контент на русском языке
+  title: "А. А. Баранова"
+  date_format: "2025-05-30"
+  address:
+    street: "ул. Орджоникидзе, 3"
+    city: "г. Москва"
+    region: "Российская Федерация"
+    postcode: "115419"
+    country: "Российская Федерация"
+    country_code: "RU"
+  address_format: "zh"  # Если нужно, иначе можно убрать
+  menu:
+    main:
+      - name: "Обо мне"
+        url: "#about"
+        weight: 10
+      - name: "Блог"
+        url: "#posts"
+        weight: 20
+      - name: "Проекты"
+        url: "#projects"
+        weight: 30
+      - name: "Публикации"
+        url: "#featured"
+        weight: 40
+      - name: "Курсы"
+        url: "courses/"
+        weight: 50
+      - name: "Контакты"
+        url: "#contact"
+        weight: 60
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# Английская версия сайта
+en:
+  languageCode: "en-us"
+  contentDir: "content/en"   # Контент на английском языке
+  title: "Anna A. Baranova"
+  menu:
+    main:
+      - name: "About"
+        url: "#about"
+        weight: 10
+      - name: "Blog"
+        url: "#posts"
+        weight: 20
+      - name: "Projects"
+        url: "#projects"
+        weight: 30
+      - name: "Publications"
+        url: "#featured"
+        weight: 40
+      - name: "Courses"
+        url: "courses/"
+        weight: 50
+      - name: "Contact"
+        url: "#contact"
+        weight: 60
