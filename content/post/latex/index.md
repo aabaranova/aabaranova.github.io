@@ -5,11 +5,11 @@ date: 2025-05-30
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**wiki**](https://ru.wikipedia.org/wiki/Markdown)'
+  caption: ''
 
 authors:
   - admin
-  - doka.guide
+  - wiki
 
 tags:
  - LaTeX
