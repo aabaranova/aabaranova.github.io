@@ -52,7 +52,7 @@ en:
   menu:
     main:
       - name: 'About Me'
-        url: '/en/authors/admin/'
+        url: '/authors/admin/'
         weight: 10
       - name: 'Blog'
         url: 'post/'
