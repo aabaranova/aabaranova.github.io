@@ -49,8 +49,16 @@ ru:
 # Английская версия сайта
 en:
   languageCode: 'en-us'
-  contentDir: 'content/en/'   # Контент на английском языке
-  title: 'Anna A. Baranova'
+  contentDir: 'content/en/'   # Content in English
+  title: 'A. A. Baranova'
+  date_format: '2025-05-30'
+  address:
+    street: '3 Ordzhonikidze St.'
+    city: 'Moscow'
+    region: 'Russian Federation'
+    postcode: '115419'
+    country: 'Russian Federation'
+    country_code: 'RU'
  menu:
     main:
       - name: 'About Me'
