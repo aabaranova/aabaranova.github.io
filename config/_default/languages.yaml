@@ -19,7 +19,7 @@ ru:
   menu:
     main:
       - name: 'Обо мне'
-        url: 'content/ru/authors/admin/_index.md'
+        url: '/ru/authors/admin/'
         weight: 10
       - name: 'Блог'
         url: 'post/'
@@ -52,7 +52,7 @@ en:
   menu:
     main:
       - name: 'About Me'
-        url: 'content/en/authors/admin/_index.md'
+        url: '/en/authors/admin/'
         weight: 10
       - name: 'Blog'
         url: 'post/'
