@@ -48,7 +48,6 @@ en:
   date_format: '2025-05-30'
   menu:
     main:
-        weight: 10
       - name: 'Blog'
         url: 'post/'
         weight: 20
