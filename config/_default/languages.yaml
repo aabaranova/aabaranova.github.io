@@ -51,10 +51,10 @@ en:
   languageCode: 'en-us'
   contentDir: 'content/en/'   # Контент на английском языке
   title: 'Anna A. Baranova'
-  menu:
+ menu:
     main:
-      - name: 'About'
-        url: '#about'
+      - name: 'About Me'
+        url: 'authors/admin/'
         weight: 10
       - name: 'Blog'
         url: 'post/'
@@ -65,9 +65,18 @@ en:
       - name: 'Publications'
         url: 'publication/'
         weight: 40
-      - name: 'Courses'
-        url: 'post/course/'
-        weight: 50
-      - name: 'Contact'
-        url: '#contact'
+      - name: 'Contacts'
+        url: '#Social network links'
         weight: 60
+      - name: 'Talks'
+        url: '/#talks'
+        weight: 12
+      - name: 'News'
+        url: '/#news'
+        weight: 13
+      - name: 'Experience'
+        url: 'experience/'
+        weight: 20
+      - name: 'Teaching'
+        url: 'teaching/'
+        weight: 40
