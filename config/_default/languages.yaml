@@ -52,14 +52,7 @@ en:
   contentDir: 'content/en/'   # Content in English
   title: 'A. A. Baranova'
   date_format: '2025-05-30'
-  address:
-    street: '3 Ordzhonikidze St.'
-    city: 'Moscow'
-    region: 'Russian Federation'
-    postcode: '115419'
-    country: 'Russian Federation'
-    country_code: 'RU'
- menu:
+  menu:
     main:
       - name: 'About Me'
         url: 'authors/admin/'
