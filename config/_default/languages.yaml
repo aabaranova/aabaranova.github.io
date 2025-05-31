@@ -19,7 +19,7 @@ ru:
   menu:
     main:
       - name: 'Обо мне'
-        url: 'content/ru/authors/admin/index.md'
+        url: /
         weight: 10
       - name: 'Блог'
         url: 'post/'
@@ -31,7 +31,7 @@ ru:
         url: 'publication/'
         weight: 40
       - name: 'Контакты'
-        url: 'content/ru/authors/admin/#Social network links'
+        url: '#profiles'
         weight: 60
       - name: 'Обсуждения'
         url: '/#talks'
@@ -55,7 +55,7 @@ en:
   menu:
     main:
       - name: 'About Me'
-        url: 'content/en/authors/admin/index.md'
+        url: /
         weight: 10
       - name: 'Blog'
         url: 'post/'
@@ -67,7 +67,7 @@ en:
         url: 'publication/'
         weight: 40
       - name: 'Contacts'
-        url: 'content/en/authors/admin/#Social network links'
+        url: '#profiles'
         weight: 60
       - name: 'Talks'
         url: '/#talks'
