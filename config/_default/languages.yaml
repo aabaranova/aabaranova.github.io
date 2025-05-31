@@ -40,7 +40,7 @@ ru:
         url: '/#news'
         weight: 13
       - name: 'Опыт'
-        url: 'experience/''
+        url: 'experience/'
         weight: 20
       - name: 'Обучение'
         url: 'teaching/'
