@@ -13,17 +13,9 @@ baseURL: 'https://aabaranova.github.io/'
 ############################
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true  # Чтобы английская версия была в корне, а русская — в /ru/
-
-languages:
-  en:
-    languageName: English
-    weight: 1
-    baseURL: 'https://aabaranova.github.io/'
-  ru:
-    languageName: Русский
-    weight: 2
-    baseURL: 'https://aabaranova.github.io/ru/'
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
 
 
 ############################
